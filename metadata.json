@@ -1,0 +1,5 @@
+{
+  "name": "Espace Adam POS",
+  "description": "A mobile POS application for Espace Adam café with 50 tables and full menu management.",
+  "requestFramePermissions": []
+}
